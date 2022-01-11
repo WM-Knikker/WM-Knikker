@@ -11,6 +11,10 @@ On another note:
 Brought a strawberry plant to the office, if it survives to the point it starts making
 strawberries I will share them at the office.
 
+Update on the strawberry plant:
+Sadly the strawberry plant at the office got a little bit less water duing
+the pandamic and died. It did give me a great idea for a auto watering pot.
+
 <!---
 WM-Knikker/WM-Knikker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
